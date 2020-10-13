@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "title": "Pulp Fiction",
+        "img": "https://movie-posters-shop.myshopify.com/products/pulp-fiction-mpw-18039",
+        "rating": "8/10",
+        "year": 1992,
+        "personnel": [
+            {
+                "name": "Quentin Tarantino", 
+                "role": "Director"
+            },
+            {
+                "name": "John Travolta",
+                "role": "Actor"
+            },
+            {
+                "name": "Samuel L. Jackon",
+                "role": "Actor"
+            }
+            ],
+        "awards": ["Best Gore", "Best Hair"],
+        "genre": "Drama"
+    },
+    {
+        "id": 2,
+        "title": "The Sound of Music",
+        "img":"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/51284b7f426f66685c51e4c09e48b684_f141aacf-3210-4af4-94d1-d0e370a8f362.jpg?v=1573594811",
+        "rating": "7.5/10",
+        "year": 1965,
+        "personnel": [
+            {
+                "name": "Oscar Hammerstein", 
+                "role": "Writer"
+            },
+            {
+                "name": "Christopher Pullman",
+                "role": "Actor"
+            },
+            {
+                "name": "Julie Andrews",
+                "role": "Actor"
+            }
+            ],
+        "awards": ["Best Music", "Oldest Movie On This List"],
+        "genre": "Musical"
+    },
+    {
+        "id": 3,
+        "title": "Interstellar",
+        "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/interstellar3.jpg?v=1585846947",
+        "rating": "8/10",
+        "year": 2015,
+        "personnel": [
+            {
+                "name": "Christopher Nolan", 
+                "role": "Director"
+            },
+            {
+                "name": "Anne Hathaway",
+                "role": "Actor"
+            },
+            {
+                "name": "Matthew McConaughey",
+                "role": "Actor"
+            }
+            ],
+        "awards": ["Best Effects", "Best Score"],
+        "genre": "Science Fiction"
+    },
+    {
+        "id": 4,
+        "title": "You've Got Mail",
+        "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/202953207cac10f679b0db36503ffd82.jpg?v=1573653824",
+        "rating": "8.2/10",
+        "year": 1998,
+        "personnel": [
+            {
+                "name": "Rob Reiner", 
+                "role": "Director"
+            },
+            {
+                "name": "Tom Hanks",
+                "role": "Actor"
+            },
+            {
+                "name": "Meg Ryan",
+                "role": "Actor"
+            }
+            ],
+        "awards": ["Best Crying", "Best Scene in a Bookshop"],
+        "genre": "Romance"
+    },
+    {
+        "id": 5,
+        "title": "Jurassic Park",
+        "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/4940c5878babf3dc5d2ca567b7558178_9e62fc4c-4116-48e5-a4f5-3a99c73ae7b1.jpg?v=1573651499",
+        "rating": "10/10",
+        "year": 1997,
+        "personnel": [
+            {
+                "name": "Stephen Speilberg", 
+                "role": "Director"
+            },
+            {
+                "name": "Jeff Goldblum",
+                "role": "Actor"
+            },
+            {
+                "name": "Tyrannosaurus Rex",
+                "role": "Actor"
+            }
+            ],
+        "awards": ["Best Shaving Cream", "Best Animal Training"],
+        "genre": "Thriller"
+    }
+]
